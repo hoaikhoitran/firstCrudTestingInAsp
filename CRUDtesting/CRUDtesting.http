@@ -1,0 +1,7 @@
+@CRUDtesting_HostAddress = https://localhost:7128
+
+GET {{CRUDtesting_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+

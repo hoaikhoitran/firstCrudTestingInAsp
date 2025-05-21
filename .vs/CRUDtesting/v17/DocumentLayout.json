@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\testBE\\CRUDtesting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CFEE777-5212-46D1-9FA0-FF611868C9F9}|CRUDtesting\\CRUDtesting.csproj|d:\\testbe\\crudtesting\\crudtesting\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CFEE777-5212-46D1-9FA0-FF611868C9F9}|CRUDtesting\\CRUDtesting.csproj|solutionrelative:crudtesting\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CFEE777-5212-46D1-9FA0-FF611868C9F9}|CRUDtesting\\CRUDtesting.csproj|d:\\testbe\\crudtesting\\crudtesting\\models\\addbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CFEE777-5212-46D1-9FA0-FF611868C9F9}|CRUDtesting\\CRUDtesting.csproj|solutionrelative:crudtesting\\models\\addbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CFEE777-5212-46D1-9FA0-FF611868C9F9}|CRUDtesting\\CRUDtesting.csproj|d:\\testbe\\crudtesting\\crudtesting\\models\\updatebookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CFEE777-5212-46D1-9FA0-FF611868C9F9}|CRUDtesting\\CRUDtesting.csproj|solutionrelative:crudtesting\\models\\updatebookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CFEE777-5212-46D1-9FA0-FF611868C9F9}|CRUDtesting\\CRUDtesting.csproj|d:\\testbe\\crudtesting\\crudtesting\\models\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CFEE777-5212-46D1-9FA0-FF611868C9F9}|CRUDtesting\\CRUDtesting.csproj|solutionrelative:crudtesting\\models\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateBookDto.cs",
+              "DocumentMoniker": "D:\\testBE\\CRUDtesting\\CRUDtesting\\Models\\UpdateBookDto.cs",
+              "RelativeDocumentMoniker": "CRUDtesting\\Models\\UpdateBookDto.cs",
+              "ToolTip": "D:\\testBE\\CRUDtesting\\CRUDtesting\\Models\\UpdateBookDto.cs",
+              "RelativeToolTip": "CRUDtesting\\Models\\UpdateBookDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:36:57.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddBookDto.cs",
+              "DocumentMoniker": "D:\\testBE\\CRUDtesting\\CRUDtesting\\Models\\AddBookDto.cs",
+              "RelativeDocumentMoniker": "CRUDtesting\\Models\\AddBookDto.cs",
+              "ToolTip": "D:\\testBE\\CRUDtesting\\CRUDtesting\\Models\\AddBookDto.cs",
+              "RelativeToolTip": "CRUDtesting\\Models\\AddBookDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:11:04.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "D:\\testBE\\CRUDtesting\\CRUDtesting\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "CRUDtesting\\Controllers\\BooksController.cs",
+              "ToolTip": "D:\\testBE\\CRUDtesting\\CRUDtesting\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "CRUDtesting\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAA/wEoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T11:23:13.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\testBE\\CRUDtesting\\CRUDtesting\\Models\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "CRUDtesting\\Models\\Entities\\Book.cs",
+              "ToolTip": "D:\\testBE\\CRUDtesting\\CRUDtesting\\Models\\Entities\\Book.cs",
+              "RelativeToolTip": "CRUDtesting\\Models\\Entities\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T10:24:16.336Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
