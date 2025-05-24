@@ -2,7 +2,7 @@
   "openapi": "3.0.1",
   "info": {
     "title": "Authentication Demo",
-    "version": "v1"
+    "version": "23/05"
   },
   "paths": {
     "/api/Books": {

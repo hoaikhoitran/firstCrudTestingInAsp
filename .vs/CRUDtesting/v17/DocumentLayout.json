@@ -3,36 +3,28 @@
   "WorkspaceRootPath": "D:\\testBE\\CRUDtesting\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2CFEE777-5212-46D1-9FA0-FF611868C9F9}|CRUDtesting\\CRUDtesting.csproj|d:\\testbe\\crudtesting\\crudtesting\\models\\updatebookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CFEE777-5212-46D1-9FA0-FF611868C9F9}|CRUDtesting\\CRUDtesting.csproj|solutionrelative:crudtesting\\models\\updatebookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2CFEE777-5212-46D1-9FA0-FF611868C9F9}|CRUDtesting\\CRUDtesting.csproj|d:\\testbe\\crudtesting\\crudtesting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CFEE777-5212-46D1-9FA0-FF611868C9F9}|CRUDtesting\\CRUDtesting.csproj|solutionrelative:crudtesting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CFEE777-5212-46D1-9FA0-FF611868C9F9}|CRUDtesting\\CRUDtesting.csproj|d:\\testbe\\crudtesting\\crudtesting\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CFEE777-5212-46D1-9FA0-FF611868C9F9}|CRUDtesting\\CRUDtesting.csproj|solutionrelative:crudtesting\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2CFEE777-5212-46D1-9FA0-FF611868C9F9}|CRUDtesting\\CRUDtesting.csproj|d:\\testbe\\crudtesting\\crudtesting\\models\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CFEE777-5212-46D1-9FA0-FF611868C9F9}|CRUDtesting\\CRUDtesting.csproj|solutionrelative:crudtesting\\models\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CFEE777-5212-46D1-9FA0-FF611868C9F9}|CRUDtesting\\CRUDtesting.csproj|d:\\testbe\\crudtesting\\crudtesting\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CFEE777-5212-46D1-9FA0-FF611868C9F9}|CRUDtesting\\CRUDtesting.csproj|solutionrelative:crudtesting\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CFEE777-5212-46D1-9FA0-FF611868C9F9}|CRUDtesting\\CRUDtesting.csproj|d:\\testbe\\crudtesting\\crudtesting\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CFEE777-5212-46D1-9FA0-FF611868C9F9}|CRUDtesting\\CRUDtesting.csproj|solutionrelative:crudtesting\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2CFEE777-5212-46D1-9FA0-FF611868C9F9}|CRUDtesting\\CRUDtesting.csproj|d:\\testbe\\crudtesting\\crudtesting\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2CFEE777-5212-46D1-9FA0-FF611868C9F9}|CRUDtesting\\CRUDtesting.csproj|solutionrelative:crudtesting\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2CFEE777-5212-46D1-9FA0-FF611868C9F9}|CRUDtesting\\CRUDtesting.csproj|d:\\testbe\\crudtesting\\crudtesting\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CFEE777-5212-46D1-9FA0-FF611868C9F9}|CRUDtesting\\CRUDtesting.csproj|solutionrelative:crudtesting\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CFEE777-5212-46D1-9FA0-FF611868C9F9}|CRUDtesting\\CRUDtesting.csproj|d:\\testbe\\crudtesting\\crudtesting\\models\\addbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CFEE777-5212-46D1-9FA0-FF611868C9F9}|CRUDtesting\\CRUDtesting.csproj|solutionrelative:crudtesting\\models\\addbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2CFEE777-5212-46D1-9FA0-FF611868C9F9}|CRUDtesting\\CRUDtesting.csproj|d:\\testbe\\crudtesting\\crudtesting\\models\\updatebookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CFEE777-5212-46D1-9FA0-FF611868C9F9}|CRUDtesting\\CRUDtesting.csproj|solutionrelative:crudtesting\\models\\updatebookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CFEE777-5212-46D1-9FA0-FF611868C9F9}|CRUDtesting\\CRUDtesting.csproj|d:\\testbe\\crudtesting\\crudtesting\\models\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CFEE777-5212-46D1-9FA0-FF611868C9F9}|CRUDtesting\\CRUDtesting.csproj|solutionrelative:crudtesting\\models\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2CFEE777-5212-46D1-9FA0-FF611868C9F9}|CRUDtesting\\CRUDtesting.csproj|d:\\testbe\\crudtesting\\crudtesting\\models\\addbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CFEE777-5212-46D1-9FA0-FF611868C9F9}|CRUDtesting\\CRUDtesting.csproj|solutionrelative:crudtesting\\models\\addbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,71 +34,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "D:\\testBE\\CRUDtesting\\CRUDtesting\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "CRUDtesting\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "D:\\testBE\\CRUDtesting\\CRUDtesting\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "CRUDtesting\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T06:33:22.52Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "D:\\testBE\\CRUDtesting\\CRUDtesting\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "CRUDtesting\\WeatherForecast.cs",
-              "ToolTip": "D:\\testBE\\CRUDtesting\\CRUDtesting\\WeatherForecast.cs",
-              "RelativeToolTip": "CRUDtesting\\WeatherForecast.cs",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\testBE\\CRUDtesting\\CRUDtesting\\appsettings.json",
+              "RelativeDocumentMoniker": "CRUDtesting\\appsettings.json",
+              "ToolTip": "D:\\testBE\\CRUDtesting\\CRUDtesting\\appsettings.json",
+              "RelativeToolTip": "CRUDtesting\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T06:33:20.827Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-23T06:29:23.798Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\testBE\\CRUDtesting\\CRUDtesting\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "CRUDtesting\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\testBE\\CRUDtesting\\CRUDtesting\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "CRUDtesting\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T06:01:04.139Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\testBE\\CRUDtesting\\CRUDtesting\\Program.cs",
               "RelativeDocumentMoniker": "CRUDtesting\\Program.cs",
               "ToolTip": "D:\\testBE\\CRUDtesting\\CRUDtesting\\Program.cs",
               "RelativeToolTip": "CRUDtesting\\Program.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAqwCkAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAEEAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-22T03:02:37.139Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "UpdateBookDto.cs",
               "DocumentMoniker": "D:\\testBE\\CRUDtesting\\CRUDtesting\\Models\\UpdateBookDto.cs",
               "RelativeDocumentMoniker": "CRUDtesting\\Models\\UpdateBookDto.cs",
@@ -114,12 +76,11 @@
               "RelativeToolTip": "CRUDtesting\\Models\\UpdateBookDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T16:36:57.791Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T16:36:57.791Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "AddBookDto.cs",
               "DocumentMoniker": "D:\\testBE\\CRUDtesting\\CRUDtesting\\Models\\AddBookDto.cs",
               "RelativeDocumentMoniker": "CRUDtesting\\Models\\AddBookDto.cs",
@@ -127,25 +88,23 @@
               "RelativeToolTip": "CRUDtesting\\Models\\AddBookDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T16:11:04.12Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T16:11:04.12Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "BooksController.cs",
               "DocumentMoniker": "D:\\testBE\\CRUDtesting\\CRUDtesting\\Controllers\\BooksController.cs",
               "RelativeDocumentMoniker": "CRUDtesting\\Controllers\\BooksController.cs",
               "ToolTip": "D:\\testBE\\CRUDtesting\\CRUDtesting\\Controllers\\BooksController.cs",
               "RelativeToolTip": "CRUDtesting\\Controllers\\BooksController.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T11:23:13.059Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T11:23:13.059Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "Book.cs",
               "DocumentMoniker": "D:\\testBE\\CRUDtesting\\CRUDtesting\\Models\\Entities\\Book.cs",
               "RelativeDocumentMoniker": "CRUDtesting\\Models\\Entities\\Book.cs",
